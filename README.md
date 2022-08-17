@@ -1,2 +1,0 @@
-# LudoGame
-Board game simulator
